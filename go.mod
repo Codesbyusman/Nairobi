@@ -1,4 +1,4 @@
-module silsila_chain
+module Nairobi
 
 go 1.21.0
 
